@@ -11,4 +11,4 @@ wheel
 flash-attn
 wandb
 peft
-
+hf_transfer
