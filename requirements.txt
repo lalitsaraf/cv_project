@@ -1,0 +1,14 @@
+torch
+transformers
+timm
+einops
+datasets
+bitsandbytes
+accelerate
+jupyter
+ipywidgets
+wheel
+flash-attn
+wandb
+peft
+
